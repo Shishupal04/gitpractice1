@@ -1,1 +1,1 @@
-# gitpractice1
+Welcome to the git and github
